@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <PackageVersion>0.1.0</PackageVersion>
+    <PackageID>freire-security</PackageID>
+  </PropertyGroup>
+
+</Project>

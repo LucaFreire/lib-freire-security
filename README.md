@@ -6,6 +6,6 @@ To download the lib on your project, you have to add on the cmd:
 <br>
 <h2>dotnet add package freire-security</h2>
 
-To use the lib on your project, you have to use the fallowing namespace:
+To use the lib on your project, you have to use the following namespace:
 <br/>
 <h2>using security_jwt</h2>
